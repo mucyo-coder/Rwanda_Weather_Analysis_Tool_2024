@@ -58,7 +58,7 @@ This Google Earth Engine (GEE) script provides a comprehensive analysis of Rwand
 
 # Methodology Diagram
 
-![alt text](image-2.png)
+![alt text](image-meth.png)
 
 # Results Analysis 
 
